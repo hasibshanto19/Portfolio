@@ -1,4 +1,4 @@
-# Data Scientist
+# Design Engineer
 
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
