@@ -1,6 +1,6 @@
 
-![My face](WhatsApp Image 2023-01-31 at 6.22.51 PM.jpeg)
 
+![EEG Band Discovery](/WhatsApp Image 2023-01-31 at 6.22.51 PM.jpeg)
 
 # Design Engineer
 
